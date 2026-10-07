@@ -95,7 +95,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 ### Integrations
 
 - [connect-apps](./connect-apps) - Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 500+ services.
-- [Voidly](https://github.com/voidly-ai) — MCP server with 83+ tools for censorship intelligence, encrypted agent messaging, and agent payments. Install: `npx @voidly/mcp-server`.
+- [Voidly Atlas MCP](https://github.com/voidly-ai/atlas-mcp) — Internet-censorship data and Sentinel forecasts, plus optional agent relay tools (state-changing actions off by default; relay messages are relay-readable, not end-to-end encrypted). Install: `npx -y @voidly/mcp-server`.
 
 ### Frontend & Design
 
